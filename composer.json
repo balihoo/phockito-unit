@@ -1,5 +1,5 @@
 {
-    "name": "balihoo/PhockitoUnit",
+    "name": "balihoo/phockito-unit",
     "type": "library",
     "description": "A library easing the combination of Phockito & PHP Unit",
     "keywords": [ "phockito", "mock", "test", "unit", "PHP Unit" ],
