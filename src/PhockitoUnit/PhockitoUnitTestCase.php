@@ -17,9 +17,9 @@ class PhockitoUnitTestCase extends \PHPUnit_Framework_TestCase
 
 
     /**
-     * Reflects on the current instance for any members prefixed with the name mock
-     * For each found it reflects on the php doc comment for the type and then generates a mock instance
-     * and sets the member to that mock instance.
+     * Reflects on the current instance for any members prefixed with the name mock or spy
+     * For each found it reflects on the php doc comment for the type and then generates a mock or spy instance
+     * and sets the member to that instance.
      */
     public function generateMocksAndSpies()
     {
@@ -27,7 +27,7 @@ class PhockitoUnitTestCase extends \PHPUnit_Framework_TestCase
 
         $class = new ReflectionClass($this);
 
-        //Find every member that begins with "mock"
+        //Find every member that begins with "mock" or "spy"
         foreach ($class->getProperties() as $property) {
 
             if (strpos($property->name, 'mock') === 0 || strpos($property->name, 'spy') === 0) {
