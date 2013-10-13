@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/balihoo/phockito-unit.png?branch=master)](https://travis-ci.org/balihoo/phockito-unit)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/balihoo/phockito-unit/badges/quality-score.png?s=dc520b8a38a519cd2a32e98420a557a5ccb71195)](https://scrutinizer-ci.com/g/balihoo/phockito-unit/)
 [![Code Coverage](https://scrutinizer-ci.com/g/balihoo/phockito-unit/badges/coverage.png?s=ae903273910ea4d214ba4bf65a4681d77bffddf3)](https://scrutinizer-ci.com/g/balihoo/phockito-unit/)
+[![Latest Stable Version](https://poser.pugx.org/balihoo/phockito-unit/v/stable.png)](https://packagist.org/packages/balihoo/phockito-unit)
+[![Total Downloads](https://poser.pugx.org/balihoo/phockito-unit/downloads.png)](https://packagist.org/packages/balihoo/phockito-unit)
+[![Latest Unstable Version](https://poser.pugx.org/balihoo/phockito-unit/v/unstable.png)](https://packagist.org/packages/balihoo/phockito-unit)
 
 PhockitoUnit
 ============
