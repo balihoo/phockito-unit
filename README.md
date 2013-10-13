@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/balihoo/PhockitoUnit.png?branch=master)](https://travis-ci.org/balihoo/PhockitoUnit)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/badges/quality-score.png?s=0f3d93bf1bad45f52bba843a51d9c94fb3e155a0)](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/)
-[![Code Coverage](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/badges/coverage.png?s=147f2b343651fcd87445b324cb39dc5446dfc2c5)](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/)
+[![Build Status](https://travis-ci.org/balihoo/phockito-unit.png?branch=master)](https://travis-ci.org/balihoo/phockito-unit)
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/balihoo/phockito-unit/badges/quality-score.png?s=dc520b8a38a519cd2a32e98420a557a5ccb71195)](https://scrutinizer-ci.com/g/balihoo/phockito-unit/)
+[![Code Coverage](https://scrutinizer-ci.com/g/balihoo/phockito-unit/badges/coverage.png?s=ae903273910ea4d214ba4bf65a4681d77bffddf3)](https://scrutinizer-ci.com/g/balihoo/phockito-unit/)
 
 PhockitoUnit
 ============
