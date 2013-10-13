@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/balihoo/PhockitoUnit.png?branch=master)](https://travis-ci.org/balihoo/PhockitoUnit)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/badges/quality-score.png?s=0f3d93bf1bad45f52bba843a51d9c94fb3e155a0)](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/)
 [![Code Coverage](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/badges/coverage.png?s=147f2b343651fcd87445b324cb39dc5446dfc2c5)](https://scrutinizer-ci.com/g/balihoo/PhockitoUnit/)
+
 PhockitoUnit
 ============
 
