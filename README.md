@@ -127,4 +127,4 @@ class FamilyTest extends \PhockitoUnit\PhockitoUnitTestCase
 
 Do you use a DI Framework?
 ============
-If you use Phockito to mock things, then you likely use a DI framework.  If you do we suggest building a package on top of this to register your mocks in your DI container automatically.  We use [PHP-DI](https://github.com/mnapoli/PHP-DI) and so we have built [PhockitoUnit-PHP-DI](https://github.com/mnapoli/PHP-DI) to make it that much easier to test application code.
+If you use Phockito to mock things, then you likely use a DI framework.  If you do we suggest building a package on top of this to register your mocks in your DI container automatically.  We use [PHP-DI](https://github.com/mnapoli/PHP-DI) and so we have built [PhockitoUnit-PHP-DI](https://github.com/balihoo/phockito-unit-php-di) to make it that much easier to test application code.
