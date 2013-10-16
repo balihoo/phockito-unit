@@ -36,7 +36,7 @@ class PhockitoUnitTestCase extends \PHPUnit_Framework_TestCase
                     continue;
                 }
 
-                $classType = $parser->getPropertyType($class, $property);
+                $classType = $parser->getPropertyType( $property);
 
                 //Create the mock and assign it to the member
                 if($property->name[0] === 's'){
