@@ -12,6 +12,7 @@ PhockitoUnit exists to marry [PHP Unit](https://github.com/sebastianbergmann/php
 * Automatically generate mocks that your tests require
 * Automatically generate spys that your tests require
 * Automatically turn on hamcrest matching
+
 That's it!
 
 PhockitoUnit in Action
