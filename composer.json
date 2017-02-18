@@ -13,7 +13,7 @@
     "minimum-stability": "stable",
 
     "require": {
-        "mnapoli/phpdocreader": "1.*",
+        "php-di/phpdoc-reader": "1.*",
         "hafriedlander/phockito" : "dev-master",
         "php": ">=5.3.0"
     },
